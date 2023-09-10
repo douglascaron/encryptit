@@ -1,4 +1,3 @@
-//hello 
 
 var MD5 = function (string) {
 
